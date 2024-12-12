@@ -1,0 +1,114 @@
+.headline {
+    text-align: center;
+    color: #fff;
+}
+
+.paragraf {
+    text-align: center;
+    color: #fff;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.container {
+    width: 550px;
+    height: 650px;
+    background-color: #1E2833;
+    margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 15px;
+}
+body {
+    background-color: #08afe6;
+}
+.container-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imglogo {
+    width: 350px;
+    height: auto;
+    margin-top: 50px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.button-login {
+    background-color: #08afe6;
+    color: #fff;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.or {
+    color: #fff;
+    text-align: center;
+    font-size: larger;
+}
+.google {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btngoogle {
+    background-color: #08afe6;
+    color: #fff;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 20px;
+    border: none;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.panduan-mahasiswa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.panduan {
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: large;
+    color: #fff;
+    border: 2px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.kalender-mahasiswa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.kalender {
+    Padding-left: 70px;
+    padding-right: 70px;
+    font-size: large;
+    color: #fff;
+    border: 2px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
